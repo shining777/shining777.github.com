@@ -16,10 +16,9 @@ In `_config.yml` remember to specify your own data:
     title : My Blog =)
     
     author : king
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+      the first step is git add .
+	  the second step is git commit -a -m 'aaa'
+	  the third step is git push 
 
 The theme should reference these variables whenever needed.
     
