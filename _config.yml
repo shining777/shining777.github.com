@@ -11,11 +11,9 @@ highlighter: pygments
 title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
-  name : delete
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  the first step is git add .
+	  the second step is git commit -a -m 'aaa'
+	  the third step is git push 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
